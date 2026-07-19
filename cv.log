@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.12.29)  19 JUL 2026 10:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.12.29)  19 JUL 2026 10:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -498,7 +498,7 @@ Here is how much of TeX's memory you used:
  33658 multiletter control sequences out of 15000+600000
  562911 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,9n,79p,516b,587s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,9n,79p,516b,589s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/MSI/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome/Fo
 ntAwesome.pfb><C:/Users/MSI/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
 sfonts/cm/cmbx10.pfb><C:/Users/MSI/AppData/Local/Programs/MiKTeX/fonts/type1/pu
@@ -509,7 +509,7 @@ X/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/MSI/AppData/Local/Programs
 grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/MSI/AppData/Lo
 cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/MSI/App
 Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on cv.pdf (3 pages, 162384 bytes).
+Output written on cv.pdf (3 pages, 162374 bytes).
 PDF statistics:
  95 PDF objects out of 1000 (max. 8388607)
  4 named destinations out of 1000 (max. 500000)
