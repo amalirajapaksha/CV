@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.12.29)  19 JUL 2026 10:33
+This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.4) (preloaded format=xelatex 2026.1.21)  19 JUL 2026 21:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -13,14 +13,14 @@ Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
 (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.clo
 File: size11.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count196
-\c@section=\count197
-\c@subsection=\count198
-\c@subsubsection=\count199
-\c@paragraph=\count266
-\c@subparagraph=\count267
-\c@figure=\count268
-\c@table=\count269
+\c@part=\count192
+\c@section=\count193
+\c@subsection=\count194
+\c@subsubsection=\count195
+\c@paragraph=\count196
+\c@subparagraph=\count197
+\c@figure=\count198
+\c@table=\count199
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
 \bibindent=\dimen141
@@ -42,7 +42,7 @@ Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 )) (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count270
+\etb@tempcnta=\count266
 ))
 (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
 Package: array 2024/10/17 v2.6g Tabular extension package (FMi)
@@ -66,9 +66,9 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2024/12/12 v1.0g TeX engine tests
 ))
-\Gm@cnth=\count271
-\Gm@cntv=\count272
-\c@Gm@tempcnt=\count273
+\Gm@cnth=\count267
+\Gm@cntv=\count268
+\c@Gm@tempcnt=\count269
 \Gm@bindingoffset=\dimen144
 \Gm@wd@mp=\dimen145
 \Gm@odd@mp=\dimen146
@@ -107,7 +107,7 @@ Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
+Package pdftexcmds Info: \pdfdraftmode not found.
 )) (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 )
@@ -121,29 +121,25 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 string.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count274
+\c@section@level=\count270
 )
 (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.sty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 )
 \@linkdim=\dimen152
-\Hy@linkcounter=\count275
-\Hy@pagecounter=\count276
+\Hy@linkcounter=\count271
+\Hy@pagecounter=\count272
  (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2024-11-05 v7.01l Hyperref: PDFDocEncoding definition (HO)
-Now handling font encoding PD1 ...
-... no UTF-8 mapping file for font encoding PD1
 )
 (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count277
+\Hy@SavedSpaceFactor=\count273
 
 (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2024-11-05 v7.01l Hyperref: PDF Unicode definition (HO)
-Now handling font encoding PU ...
-... no UTF-8 mapping file for font encoding PU
 )
 Package hyperref Info: Hyper figures OFF on input line 4157.
 Package hyperref Info: Link nesting OFF on input line 4162.
@@ -152,7 +148,7 @@ Package hyperref Info: Plain pages OFF on input line 4172.
 Package hyperref Info: Backreferencing OFF on input line 4177.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4424.
-\c@Hy@tempcnt=\count278
+\c@Hy@tempcnt=\count274
 LaTeX Info: Redefining \url on input line 4763.
 \XeTeXLinkMargin=\dimen153
 
@@ -164,7 +160,7 @@ ty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count279
+\Fld@menulength=\count275
 \Field@Width=\dimen154
 \Fld@charsize=\dimen155
 Package hyperref Info: Hyper figures OFF on input line 6042.
@@ -179,22 +175,19 @@ Package hyperref Info: PDF/A mode OFF on input line 6072.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count280
-\c@Item=\count281
-\c@Hfootnote=\count282
+\Hy@abspage=\count276
+\c@Item=\count277
+\c@Hfootnote=\count278
 )
-Package hyperref Info: Driver (autodetected): hpdftex.
+Package hyperref Info: Driver (autodetected): hxetex.
 
-(C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
-File: hpdftex.def 2024-11-05 v7.01l Hyperref driver for pdfTeX
-
-(C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
-Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
-kage
-with kernel methods
-)
-\Fld@listcount=\count283
-\c@bookmark@seq@number=\count284
+(C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hxetex.def
+File: hxetex.def 2024-11-05 v7.01l Hyperref driver for XeTeX
+\pdfm@box=\box54
+\c@Hy@AnnotLevel=\count279
+\HyField@AnnotCount=\count280
+\Fld@listcount=\count281
+\c@bookmark@seq@number=\count282
 
 (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilec
 heck.sty
@@ -213,29 +206,28 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 20.
 
 (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
 Package: multicol 2024/09/14 v1.9i multicolumn formatting (FMi)
-\c@tracingmulticols=\count285
-\mult@box=\box54
+\c@tracingmulticols=\count283
+\mult@box=\box55
 \multicol@leftmargin=\dimen156
-\c@unbalance=\count286
-\c@collectmore=\count287
-\doublecol@number=\count288
-\multicoltolerance=\count289
-\multicolpretolerance=\count290
+\c@unbalance=\count284
+\c@collectmore=\count285
+\doublecol@number=\count286
+\multicoltolerance=\count287
+\multicolpretolerance=\count288
 \full@width=\dimen157
 \page@free=\dimen158
 \premulticols=\dimen159
 \postmulticols=\dimen160
 \multicolsep=\skip54
 \multicolbaselineskip=\skip55
-\partial@page=\box55
-\last@line=\box56
-\mc@boxedresult=\box57
+\partial@page=\box56
+\last@line=\box57
+\mc@boxedresult=\box58
 \maxbalancingoverflow=\dimen161
-\mult@rightbox=\box58
-\mult@grightbox=\box59
-\mult@firstbox=\box60
-\mult@gfirstbox=\box61
-\@tempa=\box62
+\mult@rightbox=\box59
+\mult@grightbox=\box60
+\mult@firstbox=\box61
+\mult@gfirstbox=\box62
 \@tempa=\box63
 \@tempa=\box64
 \@tempa=\box65
@@ -271,15 +263,16 @@ Package: multicol 2024/09/14 v1.9i multicolumn formatting (FMi)
 \@tempa=\box95
 \@tempa=\box96
 \@tempa=\box97
-\c@minrows=\count291
-\c@columnbadness=\count292
-\c@finalcolumnbadness=\count293
+\@tempa=\box98
+\c@minrows=\count289
+\c@columnbadness=\count290
+\c@finalcolumnbadness=\count291
 \last@try=\dimen162
 \multicolovershoot=\dimen163
 \multicolundershoot=\dimen164
-\mult@nat@firstbox=\box98
-\colbreak@box=\box99
-\mc@col@check@num=\count294
+\mult@nat@firstbox=\box99
+\colbreak@box=\box100
+\mc@col@check@num=\count292
 )
 (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome\fontawesome.s
 ty
@@ -292,14 +285,74 @@ Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
 )
 (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome\fontawesomesy
 mbols-generic.tex)
+(C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.sty
+(C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse.
+sty (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2024-12-09 L3 programming layer (loader) 
+
+(C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-xetex
+.def
+File: l3backend-xetex.def 2024-05-08 L3 backend support: XeTeX
+\g__graphics_track_int=\count293
+\l__pdf_internal_box=\box101
+\g__pdf_backend_annotation_int=\count294
+\g__pdf_backend_link_int=\count295
+))
+Package: xparse 2024-08-16 L3 Experimental document command parser
+)
+Package: fontspec 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
+
+(C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec-xetex.s
+ty
+Package: fontspec-xetex 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count296
+\l__fontspec_language_int=\count297
+\l__fontspec_strnum_int=\count298
+\l__fontspec_tmp_int=\count299
+\l__fontspec_tmpa_int=\count300
+\l__fontspec_tmpb_int=\count301
+\l__fontspec_tmpc_int=\count302
+\l__fontspec_em_int=\count303
+\l__fontspec_emdef_int=\count304
+\l__fontspec_strong_int=\count305
+\l__fontspec_strongdef_int=\count306
+\l__fontspec_tmpa_dim=\dimen165
+\l__fontspec_tmpb_dim=\dimen166
+\l__fontspec_tmpc_dim=\dimen167
+ (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.cfg)))
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "FontAwesome/BI" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "FontAwesome/B" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "FontAwesome/I" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'FontAwesome(0)' created for font
+(fontspec)             'FontAwesome' with options [].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"FontAwesome/OT:language=dflt;"
+
+
 (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome\fontawesomesy
-mbols-pdftex.tex))
-(C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdfte
-x.def
-File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count295
-\l__pdf_internal_box=\box100
-) (cv.aux)
+mbols-xeluatex.tex)) (cv.aux)
 \openout1 = `cv.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
@@ -312,6 +365,8 @@ LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
 LaTeX Font Info:    ... okay on input line 40.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 40.
 LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
 LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
 LaTeX Font Info:    ... okay on input line 40.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
@@ -322,9 +377,9 @@ LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 40.
 LaTeX Font Info:    ... okay on input line 40.
 
 *geometry* driver: auto-detecting
-*geometry* detected driver: pdftex
+*geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
-* driver: pdftex
+* driver: xetex
 * paper: <default>
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
@@ -361,38 +416,77 @@ Package: color 2024/06/23 v1.3e Standard LaTeX Color (DPC)
 (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package color Info: Driver file: pdftex.def on input line 149.
+Package color Info: Driver file: xetex.def on input line 149.
 
-(C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
-File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
-
-(C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count296
-\scratchdimen=\dimen165
-\scratchbox=\box101
-\nofMPsegments=\count297
-\nofMParguments=\count298
-\everyMPshowfont=\toks20
-\MPscratchCnt=\count299
-\MPscratchDim=\dimen166
-\MPnumerator=\count300
-\makeMPintoPDFobject=\count301
-\everyMPtoPDFconversion=\toks21
-)) (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx
-))
+(C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\xetex.def
+File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
+)
+(C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx))
 Package hyperref Info: Link coloring ON on input line 40.
- (cv.out) (cv.out)
+
+(cv.out) (cv.out)
 \@outlinefile=\write3
 \openout3 = `cv.out'.
 
-LaTeX Font Info:    Trying to load font information for U+fontawesometwo on inp
-ut line 40.
 
-(C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome\ufontawesomet
-wo.fd
-File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
-)
+Package fontspec Info: 
+(fontspec)             Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 40.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 40.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 40.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 40.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 40.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 40.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 40.
+LaTeX Font Info:    Redeclaring math accent \check on input line 40.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 40.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 40.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 40.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 40.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 40.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 40.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 40.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 40.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 40.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 40.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 40.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 40.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 40.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 40.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 40.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 40.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 40.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 40.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 40.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 40.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 40.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 40.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 40.
+
 Overfull \hbox (30.0pt too wide) in paragraph at lines 40--40
 [] 
  []
@@ -434,20 +528,19 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 76.
 
-Overfull \hbox (11.23405pt too wide) in paragraph at lines 76--88
+Overfull \hbox (11.20116pt too wide) in paragraph at lines 76--88
 [][] 
  []
 
 
-LaTeX Font Warning: Font shape `U/fontawesometwo/bx/n' undefined
-(Font)              using `U/fontawesometwo/m/n' instead on input line 97.
+LaTeX Font Warning: Font shape `TU/FontAwesome(0)/bx/n' undefined
+(Font)              using `TU/FontAwesome(0)/m/n' instead on input line 97.
 
 
 
 [1
 
-{C:/Users/MSI/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/MSI/Ap
-pData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome/fontawesometwo.enc}]
+]
 
 Package hyperref Warning: Option `colorlinks' has already been used,
 (hyperref)                setting the option has no effect on input line 116.
@@ -469,13 +562,17 @@ Package hyperref Warning: Option `colorlinks' has already been used,
 
 
 Package hyperref Warning: Option `colorlinks' has already been used,
-(hyperref)                setting the option has no effect on input line 238.
+(hyperref)                setting the option has no effect on input line 226.
 
 
-Overfull \vbox (10.0939pt too high) has occurred while \output is active []
+Package hyperref Warning: Option `colorlinks' has already been used,
+(hyperref)                setting the option has no effect on input line 246.
 
 
-Overfull \vbox (10.0939pt too high) has occurred while \output is active []
+Overfull \vbox (10.5998pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (10.5998pt too high) has occurred while \output is active []
 
 
 
@@ -492,26 +589,12 @@ Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 10580 strings out of 473574
- 164259 string characters out of 5717091
- 574676 words of memory out of 5000000
- 33658 multiletter control sequences out of 15000+600000
- 562911 words of font info for 52 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 72i,9n,79p,516b,589s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/MSI/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome/Fo
-ntAwesome.pfb><C:/Users/MSI/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
-sfonts/cm/cmbx10.pfb><C:/Users/MSI/AppData/Local/Programs/MiKTeX/fonts/type1/pu
-blic/amsfonts/cm/cmbx12.pfb><C:/Users/MSI/AppData/Local/Programs/MiKTeX/fonts/t
-ype1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/MSI/AppData/Local/Programs/MiKTe
-X/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/MSI/AppData/Local/Programs
-/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/MSI/AppData/Local/Pro
-grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/MSI/AppData/Lo
-cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/MSI/App
-Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on cv.pdf (3 pages, 162374 bytes).
-PDF statistics:
- 95 PDF objects out of 1000 (max. 8388607)
- 4 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 12619 strings out of 408683
+ 241269 string characters out of 5746284
+ 692228 words of memory out of 5000000
+ 35519 multiletter control sequences out of 15000+600000
+ 561280 words of font info for 60 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 94i,9n,107p,516b,476s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
+Output written on cv.pdf (3 pages).
