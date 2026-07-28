@@ -1,0 +1,1 @@
+A personal CV/resume repository written in LaTeX. This project stores my academic credentials, professional experience, technical skills, and project portfolio as a typeset PDF document. The repository includes the source .tex files, custom styling, compiled PDF output, and certificate/credential images referenced in the CV.
